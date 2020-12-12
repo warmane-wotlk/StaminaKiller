@@ -1,0 +1,70 @@
+------------------------------------------------------------------------
+r10 | anadale | 2010-05-21 17:29:53 +0000 (Fri, 21 May 2010) | 1 line
+Changed paths:
+   A /tags/1.2 (from /trunk:9)
+
+Tagging as 1.2
+------------------------------------------------------------------------
+r9 | Anadale | 2010-05-21 17:29:35 +0000 (Fri, 21 May 2010) | 2 lines
+Changed paths:
+   M /trunk/StaminaKiller.lua
+   M /trunk/StaminaKiller.toc
+
+StaminaKiller:
+- Added Stamina (from the scroll) buff to the list of removed buffs.
+------------------------------------------------------------------------
+r7 | Anadale | 2010-05-10 15:42:25 +0000 (Mon, 10 May 2010) | 2 lines
+Changed paths:
+   A /trunk/localization-koKR.lua
+
+StaminaKiller:
+- Added Korean localization (thanks to yuk6196, whoever he/she or it is).
+------------------------------------------------------------------------
+r5 | Anadale | 2010-04-28 11:26:27 +0000 (Wed, 28 Apr 2010) | 4 lines
+Changed paths:
+   M /trunk
+   M /trunk/.pkgmeta
+   M /trunk/StaminaKiller.lua
+   M /trunk/StaminaKiller.toc
+   M /trunk/embeds.xml
+   A /trunk/localization-ruRU.lua
+
+StaminaKiller:
+- Added zone handling to preserve CPU while not in ICC
+- ruRU translation
+- Minor beautification
+------------------------------------------------------------------------
+r4 | Anadale | 2010-04-27 17:58:53 +0000 (Tue, 27 Apr 2010) | 2 lines
+Changed paths:
+   M /trunk/StaminaKiller.lua
+
+StaminaKiller:
+- Fixed some strange bug with spell ids
+------------------------------------------------------------------------
+r3 | Anadale | 2010-04-27 16:51:20 +0000 (Tue, 27 Apr 2010) | 2 lines
+Changed paths:
+   M /trunk/StaminaKiller.lua
+
+StaminaKiller:
+- Bugfix: buff id changed to buff name in CancelUnitBuff()
+------------------------------------------------------------------------
+r2 | Anadale | 2010-04-27 15:02:34 +0000 (Tue, 27 Apr 2010) | 2 lines
+Changed paths:
+   M /trunk
+   A /trunk/.pkgmeta
+   A /trunk/StaminaKiller.lua
+   A /trunk/StaminaKiller.toc
+   A /trunk/embeds.xml
+   A /trunk/localization-enUS.lua
+
+StaminaKiller:
+- Initial submission.
+------------------------------------------------------------------------
+r1 | root | 2010-04-27 14:37:20 +0000 (Tue, 27 Apr 2010) | 1 line
+Changed paths:
+   A /branches
+   A /tags
+   A /trunk
+
+"stamina-killer/mainline: Initial Import"
+------------------------------------------------------------------------

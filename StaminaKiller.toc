@@ -1,0 +1,19 @@
+## Interface: 30300
+## Title: Stamina Killer
+## Notes: Removes HP buffs when Infest debuff hits player.
+## Author: Anadale, Sunmudang@Style
+## Version: 1.2 Sunmudang v1
+## X-Curse-Packaged-Version: 1.2
+## X-Curse-Project-Name: Stamina Killer
+## X-Curse-Project-ID: stamina-killer
+## X-Curse-Repository-ID: wow/stamina-killer/mainline
+
+## OptionalDeps: LibBabble-Zone-3.0, AceAddon-3.0, AceLocale-3.0, LibBabble-Zone-3.0, AceEvent-3.0
+
+embeds.xml
+
+localization-enUS.lua
+localization-ruRU.lua
+localization-koKR.lua
+
+StaminaKiller.lua
